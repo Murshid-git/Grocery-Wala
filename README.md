@@ -15,6 +15,13 @@ Implement responsive layouts using Tailwind CSS
 
 Enhance user experience with Swiper JS sliders and React Icons
 
+
+<img width="1897" height="879" alt="image" src="https://github.com/user-attachments/assets/e3511294-c19a-42e7-8e3b-1099ae45f3a5" />
+
+
+
+
+
 🎯 Key Features
 Multiple pages for product categories (Fruits, Vegetables, Dairy, Seafood, etc.)
 
